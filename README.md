@@ -17,10 +17,10 @@
   <!-- BODY SECTION STARTS -->
   <body>
     <h1>MASH</h1>
-    <p class="description">Fill in the blanks and your future will be foretold.</p>
+    <p class="description">Ask your future self some questions!</p>
     <form action="" method="post" id="mash">
       <div id="answers" class="hide">
-        <p>Your home is in <span id="answer_1"></span> with a <span id="answer_3"></span> as you are a <span id="answer_2"></span> who owns a <span id="home"></span>.
+        <p>You are relaxing in <span id="answer_1"></span>. Currently you are <span id="answer_2"> with your job. Thankfully the cats are <span id="answer_3"></span>.
       </div>
       <div class="bucket">
         <div class="choice-bucket">
